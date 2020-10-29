@@ -1,7 +1,5 @@
-C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
-C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
 C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
 C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
@@ -34,3 +32,6 @@ C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Sa
 C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+C:\Users\cmgomes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
